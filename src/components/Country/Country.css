@@ -1,8 +1,11 @@
-.country{
+.country {
     margin: 20px;
     padding: 10px;
-    background-color: bisque;
+    background-color: lemonchiffon;
+    border-radius: 6px;
+    border: 2px solid lightcoral;
 }
-.country img{
+
+.country img {
     width: 150px;
 }
